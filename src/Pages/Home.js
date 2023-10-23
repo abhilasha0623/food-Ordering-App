@@ -9,7 +9,7 @@ return(
         <div className = "headerContainer">
         <h1>Food Corner</h1>
         <p>INDIAN FOOD AT A CLICK.</p>
-        <Link><button>Order Now</button></Link>
+        <Link to="/menu"><button>Order Now</button></Link>
         </div>
     </div>
 )
